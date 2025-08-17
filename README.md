@@ -1,4 +1,4 @@
-# QuickPost
+# QuickPost 📮
 
 A minimalist, browser-based post creator inspired by Instagram — built with HTML, CSS, and JavaScript.
 
